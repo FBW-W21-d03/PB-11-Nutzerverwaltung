@@ -1,8 +1,8 @@
 // 1.)
 let isFull = false; // Raum ist offen für neue Nutzer
 
-// Teil 2
-isFull = true;
+// Aufgabenstellung - Teil 2
+// isFull = true;
 
 // 2.)
 let users = ["John Smith", "Bob Tyler"];
