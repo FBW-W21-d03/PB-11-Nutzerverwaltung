@@ -1,19 +1,25 @@
-let isFull = false;
 
-if(isFull == false ){
-   
-    console.log("der Raum ist offen für neue Nutzer")
-} else {
-   
-    console.log(isFull = true);
+/* Aufgabe Von Kawan ----- */
+
+let isFull = false;
+let  Nutzern = ["John Smith", "Bob Tyler"];
+
+if (isFull == false)
+ {
+    Nutzern.push("Check Person");
+
+    console.log("false )"+  Nutzern);
+}
+ else
+ {
+    console.log(" true aber leider der Raum ist voll");
 }
 
-let Nutzern = ["John Smith","Bob Tyler"];
-console.log(Nutzern);
-
-if (isFull == false) {
-   isFull.push("Checke Person");
-   console.log("false Name Check again ");
-} else {
-    console.log(" der raum ist voll");
+if (isFull == true)
+ {
+    users.push("Check Person");
+    console.log("false kannst du noch mal versuchen! )"+  Nutzern);
+} else 
+{
+    console.log( "true aber leider  der Raum ist voll");
 }
