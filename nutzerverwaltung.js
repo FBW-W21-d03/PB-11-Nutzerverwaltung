@@ -5,12 +5,10 @@ if (isFull == false) {
     users.push("Chuck Peterson");
     console.log("Aufgabe 1 = false )", users);
 } else {
-    console.log("Aufgabe 2 = true ) der Raum ist leider voll");
+    console.log("Aufgabe 2= true ) der Raum ist leider voll");
 }
 
-isFull = true;
-
-if (isFull == false) {
+if (isFull == true) {
     users.push("Chuck Peterson");
     console.log("Aufgabe 1 = false )", users);
 } else {
