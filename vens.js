@@ -5,9 +5,7 @@ if (isFull) {
     console.log("Raum ist geschlossen für neue Nutzer");
 } else {
     console.log("Raum ist offen für neue Nutzer");
-}
-
-//2. Schreibe ein Array users mit den Nutzern "John Smith" und "Bob Tyler".
+    //2. Schreibe ein Array users mit den Nutzern "John Smith" und "Bob Tyler".
 const isNutzer = ["John Smith", "Bob Tyler"];
 
 //3. Schreibe nun eine Fallabfrage.
@@ -20,3 +18,5 @@ if (isNutzer == "Chuck Peterson") {
     console.log("Chuck Peterson ist hinzufügen");
     console.log(isNutzer);
 }
+}
+
